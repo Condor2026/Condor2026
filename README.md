@@ -42,13 +42,16 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ## 🔥 Proyectos destacados
 
-| Proyecto | Descripción | Estado |
-|----------|-------------|--------|
-| **[Nebula AntiScan](https://github.com/Condor2026/Nebula_AntiScan)** | Demo pública: detección de escaneos agresivos, IPs de Killnet y malware desde 73 fuentes OSINT + dashboard cyberpunk. | ✅ Público |
-| **Andrómeda** | Sistema privado de contra-inteligencia con monitor DDoS, mapa 3D, detección de botnets y más de 17.000 grupos trackeados. | 🔒 Privado |
-| **Diabolic Canarias / Peninsular / Latam** | OSINT analítico para detección de patrones delictivos en prensa digital (robos, estafas, narcotráfico). | ✅ Público |
-| **Diabolic Italia** | Monitor automático de 70+ periódicos italianos con extracción de noticias y análisis de criminalidad. | ✅ Público |
-
+| Proyecto | Descripción breve | Estado |
+|----------|-------------------|--------|
+| **[Nebula AntiScan](https://github.com/Condor2026/Nebula_AntiScan)** | Demo pública: detección de escaneos agresivos, IPs de Killnet y botnets. Dashboard cyberpunk. | ✅ Público |
+| **[Diabolic Peninsular](https://github.com/Condor2026/Diabolic_Peninsular_V17)** | OSINT analítico para prensa de España peninsular: detección de patrones delictivos. | ✅ Público |
+| **[Diabolic Baleares](https://github.com/Condor2026/Diabolic_v17)** | OSINT para prensa de Baleares (robos, estafas, narcotráfico). | ✅ Público |
+| **[Diabolic Canarias](https://github.com/Condor2026/Diabolic_Canarias)** | OSINT para prensa de Canarias. | ✅ Público |
+| **[Diabolic Latam](https://github.com/Condor2026/Diabolic_Latam)** | OSINT para detectar criminalidad en Latinoamérica. | ✅ Público |
+| **[Diabolic Italia](https://github.com/Condor2026/Diabolic_It)** | OSINT automático sobre 70+ periódicos italianos. | ✅ Público |
+| **[LYRA OSINT](https://github.com/Condor2026/Lyra_Osint)** | Consulta pública de teléfonos, emails, IPs y usernames en 300+ plataformas. | ✅ Público |
+| **Andrómeda** | Sistema privado de contra-inteligencia (monitor DDoS, mapa 3D, botnets, +17k grupos). | 🔒 Privado |
 ---
 
 ## 📫 Contacto (solo profesional, cifrado)
@@ -57,7 +60,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 - **Matrix**: `NoUso`
 - **Correo PGP**: `NoSeDice` 
 
-**Política:** No vendo datos. No comparto Andrómeda. Solo colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
+**Política:** No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
 
 ---
 
