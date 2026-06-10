@@ -6,6 +6,13 @@
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
+## 🧬 Origen
+
+Empecé en el mundo de la seguridad como investigador independiente en entornos hostiles.  
+Con el tiempo, transformé ese conocimiento en herramientas de prevención masiva.  
+Hoy monitorizo grupos de amenazas persistentes, construyo sistemas de detección temprana y publico inteligencia procesable.  
+Mi pasado me enseñó lo que ningún curso puede enseñar: cómo piensa y actúa el enemigo.
+
 Autodidacta, opsec extremo, creador de **Andrómeda** (sistema privado de contra-inteligencia) y **Nebula** (demo pública).  
 Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mapeo de infraestructura DDoS y análisis de amenazas persistentes.
 
@@ -14,14 +21,18 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Áreas de conocimiento técnico
 
-| Categoría | Tecnologías |
-|-----------|-------------|
-| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white) |
-| **OSINT / Seguridad** | ![VirusTotal](https://img.shields.io/badge/VirusTotal-4285F4?style=flat&logo=virustotal&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF6600?style=flat&logo=shodan&logoColor=white) |
-| **Web / Visualización** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-| **Plataformas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) |
+| Categoría | Tecnologías / Áreas |
+|-----------|----------------------|
+| **Lenguajes** | Python, Bash, C |
+| **OSINT / Investigación** | Scraping masivo, análisis de metadatos, tracking de grupos pro‑rusos, huella digital, correlación de datos públicos. |
+| **Análisis de amenazas** | DDoS, botnets, infraestructura maliciosa (Killnet, NoName), TTPs, IoCs, MITRE ATT&CK. |
+| **Seguridad defensiva** | Prevención de escaneos, detección de vulnerabilidades, hardening, OpSec. |
+| **Web / Visualización** | Flask, JavaScript, HTML, CSS (dashboards de Nebula, Andromeda Universo25 y Diabolic). |
+| **Plataformas OSINT** | VirusTotal, Shodan, Wireshark, Nmap, Burp Suite, (análisis, no explotación). |
+| **Entornos** | Linux (Parrot, Kali, Ubuntu), Termux. |
+| **Control de versiones** | Git, GitHub. |
 
 ---
 
@@ -56,9 +67,10 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ## 📫 Contacto (solo profesional, cifrado)
 
-- **Signal**: `No uso` (disponible bajo petición)
-- **Matrix**: `NoUso`
-- **Correo PGP**: `NoSeDice` 
+- **Telegram**: `Proximamente`
+- **Twitter**: ``
+- **VirusTotal**: `Condore2026.`
+- **Correo PGP**: `.` 
 
 **Política:** No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
 
