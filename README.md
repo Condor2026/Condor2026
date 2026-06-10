@@ -21,19 +21,17 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ---
 
-## 🛠️ Áreas de conocimiento técnico
+## 🛠️ Tecnologías y herramientas
 
-| Categoría | Tecnologías / Áreas |
-|-----------|----------------------|
-| **Lenguajes** | Python, Bash, C |
-| **OSINT / Investigación** | Scraping masivo, análisis de metadatos, tracking de grupos pro‑rusos, huella digital, correlación de datos públicos. |
-| **Análisis de amenazas** | DDoS, botnets, infraestructura maliciosa (Killnet, NoName), TTPs, IoCs, MITRE ATT&CK. |
-| **Seguridad defensiva** | Prevención de escaneos, detección de vulnerabilidades, hardening, OpSec. |
-| **Web / Visualización** | Flask, JavaScript, HTML, CSS (dashboards de Nebula, Andromeda Universo25 y Diabolic). |
-| **Plataformas OSINT** | VirusTotal, Shodan, Wireshark, Nmap, Burp Suite, (análisis, no explotación). |
-| **Entornos** | Linux (Parrot, Kali, Ubuntu), Termux. |
-| **Control de versiones** | Git, GitHub. |
-
+| Categoría | Tecnologías |
+|-----------|-------------|
+| **Lenguajes** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white) |
+| **OSINT / Seguridad** | ![VirusTotal](https://img.shields.io/badge/VirusTotal-4285F4?style=flat&logo=virustotal&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF6600?style=flat&logo=shodan&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00AEEF?style=flat&logo=alienvault&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-8A2BE2?style=flat&logo=misp&logoColor=white) |
+| **Threat Intelligence** | ![OpenCTI](https://img.shields.io/badge/OpenCTI-FFA500?style=flat&logo=opencti&logoColor=white) ![GreyNoise](https://img.shields.io/badge/GreyNoise-000000?style=flat&logo=greynoise&logoColor=white) ![Censys](https://img.shields.io/badge/Censys-00AEEF?style=flat&logo=censys&logoColor=white) |
+| **Web / Visualización** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Plataformas OSINT adicionales** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Entornos** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
+| **Control de versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 ---
 
 ## 📊 Actividad en GitHub (tiempo real)
