@@ -16,8 +16,21 @@ Mi pasado me enseñó lo que ningún curso puede enseñar: cómo piensa y actúa
 Autodidacta, opsec extremo, creador de **Andrómeda** (sistema privado de contra-inteligencia) y **Nebula** (demo pública).  
 Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mapeo de infraestructura DDoS y análisis de amenazas persistentes.
 
-🔍 **Áreas de interés:**  
-`Threat Hunting` · `OSINT pasivo` · `Análisis de malware` · `Detección de escaneos` · `Inteligencia de actores` · `Attribution`
+## 🔍 Áreas de interés
+
+`Threat Intelligence` · `OSINT pasivo` · `Análisis de grupos pro‑rusos` · `Tracking de Killnet/NoName` · `Crimen organizado LATAM` · `Mapeo de infraestructura DDoS` · `Scraping masivo` · `Atribución de actores` · `Prevención de escaneos` · `Monitorización de botnets` · `Ingeniería social defensiva` · `Dashboards de inteligencia`
+
+## 🔍 Análisis
+
+| Área | Descripción |
+|------|-------------|
+| **Grupos pro‑rusos** | Seguimiento activo de Killnet, NoName057(16), DarkStorm, RootSec, Electus, BotnetKingdom. Mapeo de infraestructura DDoS y TTPs. |
+| **Crimen organizado en LATAM y España** | Análisis de patrones de narcotráfico, extorsión, homicidios y violencia de género mediante OSINT pasivo sobre prensa digital (Diabolic suite). |
+| **Infraestructura maliciosa** | Análisis de dominios, IPs, certificados SSL, WHOIS, JARM, y correlación de IoCs para atribución de actores (ShinyHunters, LAPSUS$, etc.). |
+| **OSINT avanzado** | Scraping masivo de Telegram, Discord, prensa digital y foros. Geolocalización, huella digital, correlación de datos públicos. |
+| **Prevención de amenazas** | Desarrollo de sistemas de alerta temprana (Andrómeda) y dashboards de monitorización de botnets y escaneos agresivos (Nebula). |
+| **Ingeniería social defensiva** | Detección y simulación de ataques de phishing para entrenamiento y denuncia de delitos graves (pedofilia, terrorismo). |
+
 
 ---
 
@@ -32,6 +45,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **Plataformas OSINT adicionales** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Entornos** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
 | **Control de versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
+| **Metodologías** | `MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` |
 ---
 
 ## 📊 Actividad en GitHub (tiempo real)
