@@ -84,9 +84,9 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 ## 📫 Contacto (solo profesional, cifrado)
 
 - **Telegram**: `Proximamente`
-- **Twitter**: ``
-- **VirusTotal**: `Condore2026.`
-- **Correo PGP**: `.` 
+- **Twitter**: `Proximamente`
+- **VirusTotal**: `Condor2026.`
+- **Correo PGP**: `KiraSecuruty@proton.me` 
 
 **Política:** No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
 
