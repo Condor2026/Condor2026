@@ -74,8 +74,12 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[Diabolic Latam](https://github.com/Condor2026/Diabolic_Latam)** | OSINT para detectar criminalidad en Latinoamérica. | ✅ Público |
 | **[Diabolic Italia](https://github.com/Condor2026/Diabolic_It)** | OSINT automático sobre 70+ periódicos italianos. | ✅ Público |
 | **[LYRA OSINT](https://github.com/Condor2026/Lyra_Osint)** | Consulta pública de teléfonos, emails, IPs y usernames en 300+ plataformas. | ✅ Público |
-| **Andrómeda** | Sistema privado de contra-inteligencia (monitor DDoS, mapa 3D, botnets, +17k grupos). | 🔒 Privado |
+| **[Andrómeda]** | Sistema privado de contra-inteligencia) (monitor DDoS, mapa 3D, botnets, +17k grupos). | 🔒 Privado |
+| **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** | Osint Ireland Criminal Intelligence Platform - Monitoring Crime - Analist - Crime-Analysis - Crime-Statistic. | ✅ Público |
+| **[aide_france](https://github.com/Condor2026/aide_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
 ---
+
+🇫🇷 AIDE FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France. 30+ sources · 96 departments · 3 languages (ES/FR/IT) · Real pagination · Auto-disc…
 
 ## 📫 Contacto (solo profesional, cifrado)
 
