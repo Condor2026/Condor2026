@@ -82,6 +82,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[Andrómeda]** | Sistema privado de contra-inteligencia) (monitor DDoS, mapa 3D, botnets, +17k grupos). | 🔒 Privado |
 | **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** | Osint Ireland Criminal Intelligence Platform - Monitoring Crime - Analist - Crime-Analysis - Crime-Statistic. | ✅ Público |
 | **[aide_france](https://github.com/Condor2026/aide_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
+| **[TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | TrueCall_Condor Osint (Open Source Intelligence) - intelligence truecaller incibe cibersecurity purple - defense phone- scam scam - detection scam - calls vhishing phishing. | ✅ Público |
 ---
 
 🇫🇷 AIDE FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France. 30+ sources · 96 departments · 3 languages (ES/FR/IT) · Real pagination · Auto-disc…
