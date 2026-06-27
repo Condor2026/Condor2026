@@ -142,9 +142,10 @@ Mi método:
 · Informes diseñados para que abogados y víctimas los usen sin miedo.
 
 ---
-
 *"El que habla no hace. Yo he hecho. Y sigo haciendo. Solo."*
+---
 **Condor2026 - SpectrumSecurity** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Condor2026&color=00ff00&style=flat&label=Vistas+al+perfil" />
