@@ -6,6 +6,11 @@
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
+
+[Condor2026]
+Analista OSINT & Hunter de Amenazas Digitales
+Investigación · Inteligencia · Apoyo a Víctimas
+
 ## 🧬 Origen
 
 Empecé en el mundo de la seguridad como investigador independiente en entornos hostiles.  
@@ -106,6 +111,29 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 - `2026-06-04` – Lanzamiento de Nebula AntiScan v1.3 (público).
 - `2026-05-30` – Mejoras en Diabolic Peninsular v17.
 - `2026-05-20` – Integración de 80 feeds de inteligencia en Andrómeda.
+
+---
+Servicios especializados:
+
+· Investigación de personas: Localización, análisis de entorno digital y recopilación de evidencias públicas para denuncias (acoso, estafas, suplantación, fraudes).
+· Ciberinteligencia: Rastreo de amenazas técnicas (malware, phishing, grupos de ataque, infraestructuras maliciosas).
+· Apoyo a abogados y víctimas: Informes estructurados con validez documental, listos para usar en procedimientos legales.
+
+---
+
+Mi método:
+
+· OSINT avanzado: Selecciono, descarto, pulo y entrego evidencia clara.
+· Hiperfoco y rapidez: Donde otros pierden semanas, yo entrego en días.
+· Actuación 100% legal: Solo fuentes abiertas y acceso público. Nada de hackeo ni ilegalidad.
+
+---
+
+¿Por qué confiar en mí?
+
+· Experiencia real en ciberinteligencia y análisis de amenazas.
+· Colaboraciones con profesionales del sector (privacidad, seguridad, derecho).
+· Informes diseñados para que abogados y víctimas los usen sin miedo.
 
 ---
 
