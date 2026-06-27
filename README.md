@@ -113,19 +113,25 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 - `2026-05-20` – Integración de 80 feeds de inteligencia en Andrómeda.
 
 ---
+
 Servicios especializados:
 
-· Investigación de personas: Localización, análisis de entorno digital y recopilación de evidencias públicas para denuncias (acoso, estafas, suplantación, fraudes).
-· Ciberinteligencia: Rastreo de amenazas técnicas (malware, phishing, grupos de ataque, infraestructuras maliciosas).
+· Investigación de personas: 
+  Localización, análisis de entorno digital y recopilación de evidencias públicas para denuncias (acoso, estafas, suplantación, fraudes).
+· Ciberinteligencia: 
+  Rastreo de amenazas técnicas (malware, phishing, grupos de ataque, infraestructuras maliciosas).
 · Apoyo a abogados y víctimas: Informes estructurados con validez documental, listos para usar en procedimientos legales.
 
 ---
 
 Mi método:
 
-· OSINT avanzado: Selecciono, descarto, pulo y entrego evidencia clara.
-· Hiperfoco y rapidez: Donde otros pierden semanas, yo entrego en días.
-· Actuación 100% legal: Solo fuentes abiertas y acceso público. Nada de hackeo ni ilegalidad.
+· OSINT avanzado: 
+  Selecciono, descarto, pulo y entrego evidencia clara.
+· Hiperfoco y rapidez: 
+  Donde otros pierden semanas, yo entrego en días.
+· Actuación 100% legal: 
+  Solo fuentes abiertas y acceso público. Nada de hackeo ni ilegalidad.
 
 ---
 
@@ -138,6 +144,7 @@ Mi método:
 ---
 
 *"El que habla no hace. Yo he hecho. Y sigo haciendo. Solo."*
+**Condor2026 - SpectrumSecurity** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Condor2026&color=00ff00&style=flat&label=Vistas+al+perfil" />
