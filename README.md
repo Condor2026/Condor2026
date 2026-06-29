@@ -23,7 +23,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ## 🔍 Áreas de interés
 
-`Threat Intelligence` · `OSINT pasivo` · `Análisis de grupos pro‑rusos` · `Tracking de Killnet/NoName` · `Crimen organizado LATAM` · `Mapeo de infraestructura DDoS` · `Scraping masivo` · `Atribución de actores` · `Prevención de escaneos` · `Monitorización de botnets` · `Ingeniería social defensiva` · `Dashboards de inteligencia`
+`Threat Intelligence` · `OSINT pasivo` · `Análisis de grupos pro‑rusos` · `Tracking de Killnet/NoName` · `Crimen organizado LATAM` · `Mapeo de infraestructura DDoS` · `Scraping masivo` · `Atribución de actores` · `Prevención de escaneos` · `Monitorización de botnets` · `Ingeniería social defensiva` · `Dashboards de inteligencia` . `Ciber Crime Analityc` . `Osinter` . `hunter`
 
 ## 🔍 Análisis
 
