@@ -3,7 +3,7 @@
 </p>
 
 # 🦅🦅🦅 Condor2026 – Investigador de amenazas 🦅🦅🦅
-| Purple Team | OSINT Developer | 
+| Purple Team | OSINT Developer |  Threat Hunter | Osinter | The Tracker |
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
