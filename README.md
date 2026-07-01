@@ -85,10 +85,13 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[aide_france](https://github.com/Condor2026/aide_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
 | **[TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | TrueCall_Condor Osint (Open Source Intelligence) - intelligence truecaller incibe cibersecurity purple - defense phone- scam scam - detection scam - calls vhishing phishing. | ✅ Público |
 | **[CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO)** | Threat Intelligence Report - Análisis - Phishing masivo suplantando a la Agencia Tributaria Española (AEAT) mediante aeat-11.eu.c | ✅ Público |
+| **[OSINT Developer-764-Gov.eth-CIBERCRIME](https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas)** | Dossier 764 & Gov.eth Dossier completo sobre la red terrorista 764 (secta satánico-neonazi) y el ciberdelincuente Gov.eth | ✅ Público |
 
 ---
 
 🇫🇷 AIDE FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France. 30+ sources · 96 departments · 3 languages (ES/FR/IT) · Real pagination · Auto-disc…
+
+---
 
 ## 📫 Contacto (solo profesional, cifrado)
 
