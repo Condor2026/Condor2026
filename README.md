@@ -84,7 +84,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[keltic_kraken](https://github.com/Condor2026/keltic_kraken)** | Osint Ireland Criminal Intelligence Platform - Monitoring Crime - Analist - Crime-Analysis - Crime-Statistic. | ✅ Público |
 | **[aide_france](https://github.com/Condor2026/aide_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
 | **[TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | TrueCall_Condor Osint (Open Source Intelligence) - intelligence truecaller incibe cibersecurity purple - defense phone- scam scam - detection scam - calls vhishing phishing. | ✅ Público |
-| **[CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO))** | Threat Intelligence Report - Análisis | Phishing masivo suplantando a la Agencia Tributaria Española (AEAT) mediante aeat-11.eu.c | ✅ Público |
+| **[CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO)** | Threat Intelligence Report - Análisis - Phishing masivo suplantando a la Agencia Tributaria Española (AEAT) mediante aeat-11.eu.c | ✅ Público |
 
 ---
 
