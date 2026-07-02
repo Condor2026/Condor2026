@@ -95,8 +95,8 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ## 📫 Contacto (solo profesional, cifrado)
 
-- **Telegram**: `Proximamente`
-- **Twitter**: `Proximamente`
+- **Telegram**: `Privado`
+- **Twitter**: `Panda_Sec_Intel`
 - **VirusTotal**: `Condor2026.`
 - **Correo PGP**: `KiraSecuruty@proton.me` 
 - **Wallet**: `0x08FADbEF3B4667824B910D2bD3d7372C8AdE3f68` Ethereum. | USD
