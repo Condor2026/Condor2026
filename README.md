@@ -62,10 +62,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ## 📈 Estadísticas generales
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Condor2026&show_icons=true&theme=dark&bg_color=000000&title_color=00ff00&icon_color=00ff00&text_color=00ff00&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condor2026&layout=compact&theme=dark&bg_color=000000&title_color=00ff00&text_color=00ff00&hide_border=true" width="48%" />
-</p>
+- Proximamente
 
 ---
 
