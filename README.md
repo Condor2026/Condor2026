@@ -96,7 +96,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 - **Twitter**: `Panda_Sec_Intel`
 - **VirusTotal**: `Condor2026.`
 - **Correo PGP**: `KiraSecuruty@proton.me` 
-- **Wallet**: `0x08FADbEF3B4667824B910D2bD3d7372C8AdE3f68` Ethereum. | USD
+- **Wallet**: `.` Ethereum. | USD
 **Política:** No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
 
 ---
