@@ -51,7 +51,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **Plataformas OSINT adicionales** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
 | **Entornos** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) |
 | **Control de versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) |
-| **Metodologías** | `MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` |
+| **Metodologías** | `MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Threat Intelligence` · `OSINT pasivo` · `Ciber Crime Analityc`
 ---
 
 ## 📊 Actividad en GitHub (tiempo real)
