@@ -9,8 +9,7 @@
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
-
-[Condor2026]
+[(https://github.com/Condor2026/)]
 Analista OSINT & Hunter de Amenazas Digitales
 Investigación · Inteligencia · Apoyo a Víctimas
 
