@@ -40,9 +40,22 @@ Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • 
 - Security research
 - Custom software development
 - Remote collaboration
+## 📫 Contacto (solo profesional, cifrado)
 
-📧 Contact: tu correo
-💼 LinkedIn: ...
+- **⌲🌐 | Telegram**: `Privado`
+- **𝕏   | Twitter**: `[@PurpleCondors)`
+- **☣️  | VirusTotal**: `Condor2026.`
+- **📧  | Correo**: `KiraSecuruty@proton.me`
+- **💼  | LinkedIn**: `proximamente`
+
+### ☕ Donaciones Crypto
+
+- **ETH (y USDC/USDT):** `proximamente`  | USD | ETC | BTC 
+- **Política**: `No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).`
+
+ ### ☕ Donaciones Crypto
+**ETH (y USDC/USDT):** ``
+
 
 ## 🧬 Origen
 
@@ -120,16 +133,6 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 🇫🇷 Diabolic FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France. 30+ sources · 96 departments · 3 languages (ES/FR/IT) · Real pagination · 
 
----
-
-## 📫 Contacto (solo profesional, cifrado)
-
-- **Telegram**: `Privado`
-- **Twitter**: `[@PurpleCondors)`
-- **VirusTotal**: `Condor2026.`
-- **Correo PGP**: `KiraSecuruty@proton.me` 
-- **Wallet**: `.` Ethereum. | USD
-**Política:** No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).
 
 ---
 
