@@ -5,7 +5,7 @@
 ![Condor2026](condor2026.png)
 
 # 🦅🦅🦅 Condor2026 – Investigador de amenazas 🦅🦅🦅
-| Purple Team | OSINT Developer |  Threat Hunter | Osinter | The Tracker |
+| Purple Team | OSINT Developer |  Threat Hunter | Osinter | The Tracker | Threat Malware | Threat Intel
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
