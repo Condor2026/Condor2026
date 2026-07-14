@@ -13,6 +13,37 @@
 Analista OSINT & Hunter de Amenazas Digitales
 Investigación · Inteligencia · Developer · Apoyo a Víctimas
 
+# 🛡️ Threat Intelligence as a Service (TIaaS)
+
+I provide custom Cyber Threat Intelligence services for organizations, researchers and security teams.
+
+## Services
+
+- 🔍 Threat Intelligence monitoring
+- 🎣 Phishing campaign analysis
+- 👤 Threat actor profiling
+- 🌐 OSINT investigations
+- 📊 Executive and technical intelligence reports
+- 🤖 Python automation for CTI and OSINT
+- ⚡ IOC collection and enrichment
+- 🛠️ Custom security tools development
+- 📡 Continuous monitoring of cybercriminal ecosystems
+
+### Technologies
+
+Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • Git • Linux
+
+## Available for
+
+- Freelance projects
+- Consulting
+- Security research
+- Custom software development
+- Remote collaboration
+
+📧 Contact: tu correo
+💼 LinkedIn: ...
+
 ## 🧬 Origen
 
 Empecé en el mundo de la seguridad como investigador independiente en entornos hostiles.  
