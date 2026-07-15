@@ -33,7 +33,8 @@ Investigación · Inteligencia · Developer · Apoyo a Víctimas
 - ⚡ IOC collection and enrichment
 - 🛠️ Custom security tools development
 - 📡 Continuous monitoring of cybercriminal ecosystems
-
+- 🛡️ Consulting Security
+- 
 ### Technologies
 
 Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • Git • Linux
