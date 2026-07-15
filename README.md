@@ -17,6 +17,10 @@ Investigación · Inteligencia · Developer · Apoyo a Víctimas
 
 I provide custom Cyber Threat Intelligence services for organizations, researchers and security teams.
 
+## “Investigador independiente de amenazas y OSINT • Próximamente SpectrumSecurity / Empresa formal”
+
+- Informes de inteligencia bajo pedido.
+
 ## Services
 
 - 🔍 Threat Intelligence monitoring
