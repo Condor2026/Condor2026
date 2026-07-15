@@ -49,7 +49,7 @@ Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • 
 
 - **⌲🌐 | Telegram**: `Privado`
 - **𝕏   | Twitter**: `[@PurpleCondors)`
-- **☣️  | VirusTotal**: `Condor2026.`
+- **☣️  | VirusTotal**: `KiraSecurity`
 - **📧  | Correo**: `KiraSecuruty@proton.me`
 - **💼  | LinkedIn**: `proximamente`
 
