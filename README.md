@@ -62,9 +62,6 @@ Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • 
 - **ETH (y USDC/USDT):** | USD | ETC | BTC 
 - **Política**: `No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).`
 
- ### ☕ Donaciones Crypto
-**ETH (y USDC/USDT):** ``
-
 
 ## 🧬 Origen
 
