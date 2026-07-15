@@ -133,7 +133,7 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[🌎Diabolic Latam](https://github.com/Condor2026/Diabolic_Latam)** | OSINT para detectar criminalidad en Latinoamérica. | ✅ Público |
 | **[🇮🇹Diabolic Italia](https://github.com/Condor2026/Diabolic_It)** | OSINT automático sobre 70+ periódicos italianos. | ✅ Público |
 | **[🕵️LYRA OSINT](https://github.com/Condor2026/Lyra_Osint)** | Consulta pública de teléfonos, emails, IPs y usernames en 300+ plataformas. | ✅ Público |
-| **[🌌Andrómeda]** | Sistema privado de contra-inteligencia) (monitor DDoS, mapa 3D, botnets, +17k grupos). | 🔒 Privado |
+| **[🌌Andrómeda]** | Sistema privado de contra-inteligencia) (monitor DDoS, mapa 3D, botnets, hasta +250k alertas). | 🔒 Privado |
 | **[🇮🇪keltic_kraken](https://github.com/Condor2026/keltic_kraken)** | Osint Ireland Criminal Intelligence Platform - Monitoring Crime - Analist - Crime-Analysis - Crime-Statistic. | ✅ Público |
 | **[🇫🇷Diabolic_France](https://github.com/Condor2026/diabolic_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
 | **[🦅 TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | TrueCall_Condor Osint (Open Source Intelligence) - intelligence truecaller incibe cibersecurity purple - defense phone- scam scam - detection scam - calls vhishing phishing. | ✅ Público |
