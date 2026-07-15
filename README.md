@@ -57,8 +57,9 @@ Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • 
 
   
 ### ☕ Donaciones Crypto
-
-- **ETH (y USDC/USDT):** `proximamente`  | USD | ETC | BTC 
+- **ETH:** `0x8eEA6C4B77DaB2C20E632407065c4F5d93093EaA`
+- **BTC:** `bc1qfvmwav55r3fqk88duux70z37kqw05c4k9t7h0j`
+- **ETH (y USDC/USDT):** | USD | ETC | BTC 
 - **Política**: `No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).`
 
  ### ☕ Donaciones Crypto
