@@ -1,67 +1,134 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Anonimato+como+escudo" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=🦅+Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Anonimato+como+escudo" alt="Typing animation" />
 </p>
 
-![Condor2026](condor2026.png)
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="150" height="150" style="border-radius: 50%; border: 2px solid #00ff00;" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Perfil-Investigador%20de%20Amenazas-00FF00" />
+  <img src="https://img.shields.io/badge/Repositorios-40+-blue" />
+  <img src="https://img.shields.io/badge/Seguidores-30-brightgreen" />
+</p>
+
+---
+
+![Profile](https://img.shields.io/badge/Profile-Condor2026-00FF00)
+![OSINT](https://img.shields.io/badge/OSINT-Developer-brightgreen)
+![Threat Intel](https://img.shields.io/badge/Threat%20Intel-Analyst-blue)
+![Purple Team](https://img.shields.io/badge/Purple%20Team-Defender-blueviolet)
+![Python](https://img.shields.io/badge/Python-Automation-yellow)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Mapped-orange)
+![Botnet Detection](https://img.shields.io/badge/Botnet%20Detection-🔥-red)
+![DDoS](https://img.shields.io/badge/DDoS-Tracking-red)
+![Cibercrimen](https://img.shields.io/badge/Cibercrimen-Analysis-darkred)
+![OSINT](https://img.shields.io/badge/OSINT-Pasivo-brightgreen)
+![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Active-blue)
+![Investigador](https://img.shields.io/badge/Investigador-Independiente-purple)
+![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20%7C%20Termux-blue)
+![Flask](https://img.shields.io/badge/Flask-Dashboards-blue)
+![Shodan](https://img.shields.io/badge/Shodan-API%20Ready-orange)
+![VirusTotal](https://img.shields.io/badge/VirusTotal-Enrichment-orange)
+![OpenCTI](https://img.shields.io/badge/OpenCTI-Integration-blueviolet)
+![MISP](https://img.shields.io/badge/MISP-Share-blue)
+![Proyectos](https://img.shields.io/badge/Proyectos-Diabolic%20%7C%20Nebula%20%7C%20LYRA-brightgreen)
+![FR](https://img.shields.io/badge/Diabolic-France-blue)
+![ES](https://img.shields.io/badge/Diabolic-Peninsular-red)
+![LATAM](https://img.shields.io/badge/Diabolic-Latam-green)
+![IT](https://img.shields.io/badge/Diabolic-Italia-blue)
+![IE](https://img.shields.io/badge/Keltic-Kraken-green)
+![Privado](https://img.shields.io/badge/Andrómeda-Privado-red)
+![Dossier](https://img.shields.io/badge/Dossier-CTI-blue)
+![CTI](https://img.shields.io/badge/CTI-X--VDP--X-orange)
+![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
+---
 
 # 🦅🦅🦅 Condor2026 – Investigador de amenazas 🦅🦅🦅
-| Purple Team | OSINT Developer |  Threat Hunter | Osinter | The Tracker | Threat Malware | Threat Intel
+
+| Purple Team | OSINT Developer | Threat Hunter | Osinter | The Tracker | Threat Malware | Threat Intel | 🛡️ Consulting Cyber Security
 
 > *"Conocer al enemigo es el primer paso para defenderte."*
 
-Analista OSINT & Hunter de Amenazas Digitales
+**Analista OSINT & Hunter de Amenazas Digitales**  
 Investigación · Inteligencia · Developer · Apoyo a Víctimas
 
-# 🛡️ Threat Intelligence as a Service (TIaaS)
+---
+
+## 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Condor2026&show_icons=true&theme=dark&bg_color=0d1117&border_color=00ff00&icon_color=00ff00&text_color=ffffff&title_color=00ff00" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condor2026&layout=compact&theme=dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" width="350" />
+</p>
+
+---
+
+## 🛡️ Threat Intelligence as a Service (TIaaS)
+
 «Proporciono servicios personalizados de Inteligencia de Ciberamenazas para organizaciones, investigadores y equipos de seguridad.»
 
-
-
-## “Investigador independiente de amenazas y OSINT • Próximamente SpectrumSecurity / Empresa formal”
+> *"Investigador independiente de amenazas y OSINT • Próximamente SpectrumSecurity / Empresa formal"*
 
 - Informes de inteligencia bajo pedido.
 
-## Services
+---
 
-- 🔍 Threat Intelligence monitoring
-- 🎣 Phishing campaign analysis
-- 👤 Threat actor profiling
-- 🌐 OSINT investigations
-- 📊 Executive and technical intelligence reports
-- 🤖 Python automation for CTI and OSINT
-- ⚡ IOC collection and enrichment
-- 🛠️ Custom security tools development
-- 📡 Continuous monitoring of cybercriminal ecosystems
-- 🛡️ Consulting Security
-- 
-### Technologies
+## 🔍 Services
 
-Python • OSINT • CTI • Flask • APIs • Automation • MITRE ATT&CK • Git • Linux
+| Servicio | Descripción |
+|----------|-------------|
+| 🔍 Threat Intelligence monitoring | Monitoreo continuo de amenazas |
+| 🎣 Phishing campaign analysis | Análisis de campañas de phishing |
+| 👤 Threat actor profiling | Perfilado de actores de amenazas |
+| 🌐 OSINT investigations | Investigaciones OSINT a medida |
+| 📊 Executive and technical intelligence reports | Informes ejecutivos y técnicos |
+| 🤖 Python automation for CTI and OSINT | Automatización con Python para CTI/OSINT |
+| ⚡ IOC collection and enrichment | Recopilación y enriquecimiento de IOCs |
+| 🛠️ Custom security tools development | Desarrollo de herramientas personalizadas |
+| 📡 Continuous monitoring of cybercriminal ecosystems | Monitoreo continuo de ecosistemas criminales |
+| 🛡️ Consulting Security | Consultoría de seguridad |
 
-## Available for
+---
+
+## 🛠️ Technologies
+
+`Python` · `OSINT` · `CTI` · `Flask` · `APIs` · `Automation` · `MITRE ATT&CK` · `Git` · `Linux`
+
+---
+
+## 💼 Available for
 
 - Freelance projects
 - Consulting
 - Security research
 - Custom software development
 - Remote collaboration
+
+---
+
 ## 📫 Contacto (solo profesional, cifrado)
 
-- **⌲🌐 | Telegram**: `Privado`
-- **𝕏   | Twitter**: `@PurpleCondors`
-- **☣️  | VirusTotal**: `@KiraSecurity`
-- **📧  | Correo**: `KiraSecuruty@proton.me`
-- **💼  | LinkedIn**: `nunca`
-- **💼  | freelancer**: `@condor2026ghost`
-- **💼  |      fiverr**: `@elcondor2026`
+| Canal | Handle |
+|-------|--------|
+| **⌲🌐 Telegram** | `Privado` |
+| **𝕏 Twitter** | `@PurpleCondors` |
+| **☣️ VirusTotal** | `@KiraSecurity` |
+| **📧 Correo** | `KiraSecuruty@proton.me` |
+| **💼 LinkedIn** | `nunca` |
+| **💼 Freelancer** | `@condor2026ghost` |
+| **💼 Fiverr** | `@elcondor2026` |
 
-  
 ### ☕ Donaciones Crypto
+
 - **ETH:** `0x8eEA6C4B77DaB2C20E632407065c4F5d93093EaA`
 - **BTC:** `bc1qfvmwav55r3fqk88duux70z37kqw05c4k9t7h0j`
-- **ETH (y USDC/USDT):** | USD | ETC | BTC 
-- **Política**: `No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).`
+- **ETH (y USDC/USDT):** | USD | ETC | BTC
 
+**Política:** `No vendo datos. No comparto Andrómeda. No VENDO Andrómeda. Solo comparto los resultados con colaboraciones éticas con entidades legítimas (SOCs, CSIRTs, gobiernos, ONGs).`
+
+---
 
 ## 🧬 Origen
 
@@ -73,9 +140,13 @@ Mi pasado me enseñó lo que ningún curso puede enseñar: cómo piensa y actúa
 Autodidacta, opsec extremo, creador de **Andrómeda** (sistema privado de contra-inteligencia) y **Nebula** (demo pública).  
 Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mapeo de infraestructura DDoS y análisis de amenazas persistentes.
 
+---
+
 ## 🔍 Áreas de interés
 
-`Threat Intelligence` · `OSINT pasivo` · `Análisis de grupos pro‑rusos` · `Tracking de Killnet/NoName` · `Crimen organizado LATAM` · `Mapeo de infraestructura DDoS` · `Scraping masivo` · `Atribución de actores` · `Prevención de escaneos` · `Monitorización de botnets` · `Ingeniería social defensiva` · `Dashboards de inteligencia` . `Ciber Crime Analityc` . `Osinter` . `hunter`
+`Threat Intelligence` · `OSINT pasivo` · `Análisis de grupos pro‑rusos` · `Tracking de Killnet/NoName` · `Crimen organizado LATAM` · `Mapeo de infraestructura DDoS` · `Scraping masivo` · `Atribución de actores` · `Prevención de escaneos` · `Monitorización de botnets` · `Ingeniería social defensiva` · `Dashboards de inteligencia` · `Cyber Crime Analytics` · `Osinter` · `Hunter`
+
+---
 
 ## 🔍 Análisis
 
@@ -87,7 +158,6 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **OSINT avanzado** | Scraping masivo de Telegram, Discord, prensa digital y foros. Geolocalización, huella digital, correlación de datos públicos. |
 | **Prevención de amenazas** | Desarrollo de sistemas de alerta temprana (Andrómeda) y dashboards de monitorización de botnets y escaneos agresivos (Nebula). |
 | **Ingeniería social defensiva** | Detección y simulación de ataques de phishing para entrenamiento y denuncia de delitos graves (pedofilia, terrorismo). |
-
 
 ---
 
@@ -103,23 +173,19 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **Plataformas OSINT** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
 | **Entornos / SO** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E9AFE?style=flat&logo=parrot-security&logoColor=white) |
 | **Control de versiones** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
-| **CI / CD** | ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white) |
 | **Dominios de conocimiento** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer_Science-007ACC?style=flat&logo=python&logoColor=white) ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=flat&logo=raspberry-pi&logoColor=white) ![Software Development](https://img.shields.io/badge/Software_Development-4CAF50?style=flat&logo=code&logoColor=white) |
-
-### 🧠 Metodologías y prácticas
-`MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Threat Intelligence` · `OSINT pasivo` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines`
-
-### 🧠 Metodologías y prácticas
-`MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Threat Intelligence` · `OSINT pasivo` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines`
-## 📊 Actividad en GitHub (tiempo real)
-
-[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Condor2026%20-%20Actividad%20Cibernética)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 📈 Estadísticas generales
+## 🧠 Metodologías y prácticas
 
-- Proximamente
+`MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Threat Intelligence` · `OSINT pasivo` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines`
+
+---
+
+## 📊 Actividad en GitHub (tiempo real)
+
+[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Condor2026%20-%20Actividad%20Cibernética)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -127,24 +193,33 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 | Proyecto | Descripción breve | Estado |
 |----------|-------------------|--------|
-| **[🌌Nebula AntiScan](https://github.com/Condor2026/Nebula_AntiScan)** | Demo pública: detección de escaneos agresivos, IPs de Killnet y botnets. Dashboard cyberpunk. | ✅ Público |
-| **[🇪🇸Diabolic Peninsular](https://github.com/Condor2026/Diabolic_Peninsular_V17)** | OSINT analítico para prensa de España peninsular: detección de patrones delictivos. | ✅ Público |
-| **[🇪🇸Diabolic Baleares](https://github.com/Condor2026/Diabolic_v17)** | OSINT para prensa de Baleares (robos, estafas, narcotráfico). | ✅ Público |
-| **[🇪🇸Diabolic Canarias](https://github.com/Condor2026/Diabolic_Canarias)** | OSINT para prensa de Canarias. | ✅ Público |
-| **[🌎Diabolic Latam](https://github.com/Condor2026/Diabolic_Latam)** | OSINT para detectar criminalidad en Latinoamérica. | ✅ Público |
-| **[🇮🇹Diabolic Italia](https://github.com/Condor2026/Diabolic_It)** | OSINT automático sobre 70+ periódicos italianos. | ✅ Público |
-| **[🕵️LYRA OSINT](https://github.com/Condor2026/Lyra_Osint)** | Consulta pública de teléfonos, emails, IPs y usernames en 300+ plataformas. | ✅ Público |
-| **[🌌Andrómeda]** | Sistema privado de contra-inteligencia) (monitor DDoS, mapa 3D, botnets, hasta +250k alertas). | 🔒 Privado |
-| **[🇮🇪keltic_kraken](https://github.com/Condor2026/keltic_kraken)** | Osint Ireland Criminal Intelligence Platform - Monitoring Crime - Analist - Crime-Analysis - Crime-Statistic. | ✅ Público |
-| **[🇫🇷Diabolic_France](https://github.com/Condor2026/diabolic_france)** | Osint France Criminal Plataform - Monitoring Crime - Analist - Crime-stastistic.  | ✅ Público |
-| **[🦅 TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | TrueCall_Condor Osint (Open Source Intelligence) - intelligence truecaller incibe cibersecurity purple - defense phone- scam scam - detection scam - calls vhishing phishing. | ✅ Público |
-| **[🌐CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO)** | Threat Intelligence Report - Análisis - Phishing masivo suplantando a la Agencia Tributaria Española (AEAT) mediante aeat-11.eu.c | ✅ Público |
-| **[🌐OSINT Developer-764-Gov.eth-CIBERCRIME](https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas)** | Dossier 764 & Gov.eth Dossier completo sobre la red terrorista 764 (secta satánico-neonazi) y el ciberdelincuente Gov.eth | ✅ Público |
-
----
-
-🇫🇷 Diabolic FRANCE - OSINT social aid platform. Monitors housing, employment, food, health & poverty needs in France. 30+ sources · 96 departments · 3 languages (ES/FR/IT) · Real pagination · 
-
+| **[📄 cti-xv-dpx](https://github.com/Condor2026/cti-xv-dpx)** | Dossier CTI completo sobre X-VDP-X (diable'fire) y la brecha a France Cyber Défense. Incluye análisis TTPs, IOCs y marco legal francés. | ✅ Público |
+| **[🌌 Nebula AntiScan](https://github.com/Condor2026/Nebula_AntiScan2)** | Demo pública: detección de escaneos agresivos, IPs de Killnet y botnets. Dashboard cyberpunk con 73 fuentes OSINT + 80 feeds. | ✅ Público |
+| **[🇪🇸 Diabolic Peninsular](https://github.com/Condor2026/Diabolic_Peninsular_V17)** | OSINT analítico para prensa de España peninsular: detección de patrones delictivos. | ✅ Público |
+| **[🇪🇸 Diabolic Baleares](https://github.com/Condor2026/Diabolic_v17)** | OSINT para prensa de Baleares (robos, estafas, narcotráfico). | ✅ Público |
+| **[🇪🇸 Diabolic Canarias](https://github.com/Condor2026/Diabolic_Canarias)** | OSINT para prensa de Canarias. | ✅ Público |
+| **[🌎 Diabolic Latam](https://github.com/Condor2026/Diabolic_Latam)** | OSINT para detectar criminalidad en Latinoamérica. | ✅ Público |
+| **[🇮🇹 Diabolic Italia](https://github.com/Condor2026/Diabolic_It)** | OSINT automático sobre 70+ periódicos italianos. | ✅ Público |
+| **[🇫🇷 Diabolic France](https://github.com/Condor2026/diabolic_france)** | OSINT social aid platform - 30+ sources, 96 departments, 3 languages. | ✅ Público |
+| **[🇮🇪 Keltic Kraken](https://github.com/Condor2026/keltic_kraken)** | Ireland Criminal Intelligence Platform - Monitoring Crime. | ✅ Público |
+| **[🕵️ LYRA OSINT](https://github.com/Condor2026/Lyra_Osint)** | Consulta pública de teléfonos, emails, IPs y usernames en 300+ plataformas. | ✅ Público |
+| **[🦅 TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | OSINT tool para documentar llamadas scam, dominios phishing y URLs fraudulentas. | ✅ Público |
+| **[📡 Andrómeda](https://github.com/Condor2026/Andromeda-analisi-grupos-ciber-delictivos)** | Sistema privado de contra-inteligencia (monitor DDoS, mapa 3D, botnets, +250k alertas). | 🔒 Privado |
+| **[📄 Dossier 764 & Gov.eth](https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas)** | Dossier completo sobre la red terrorista 764 y el ciberdelincuente Gov.eth. | ✅ Público |
+| **[🎣 Campaign Phishing AEAT](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO)** | Análisis de phishing masivo suplantando a la Agencia Tributaria Española. | ✅ Público |
+| **[📄 INFORME CTI GLOBAL](https://github.com/Condor2026/INFORME-DE-INTELIGENCIA-DE-AMENAZAS-CIBERNETICAS-CTI-GLOBAL)** | Análisis global del ciberespacio y la guerra invisible. | ✅ Público |
+| **[📄 INFORME CTI RUSAS](https://github.com/Condor2026/INFORME-DE-INTELIGENCIA-DE-AMENAZAS-RUSAS-CIBERNTICAS-CTI-21-7-2026)** | Dossier completo sobre amenazas cibernéticas rusas. | ✅ Público |
+| **[📄 CIBERWAR: Ecosistema Hacktivista Prorruso](https://github.com/Condor2026/CIBERWAR-El-Ecosistema-Silencioso)** | Análisis del ecosistema hacktivista prorruso. | ✅ Público |
+| **[📄 Dead Man's Switch](https://github.com/Condor2026/Dead-Man-s-Switch)** | Testamento digital con sorpresa. | ✅ Público |
+| **[⚓ OCEANUS-AI v4.5](https://github.com/Condor2026/OCEANUS-AI-v4.5)** | Sistema marítimo de monitoreo Geo-rutas (Anti Narco lanchas) - solo privado. | 🔒 Privado |
+| **[🇩🇪 Diabolic Alemania](https://github.com/Condor2026/Diabolic_Alemania)** | OSINT para Alemania. | ✅ Público |
+| **[📄 Análisis crítico de la Ciberseguridad Global 2026](https://github.com/Condor2026/Analisis--critico-de-la-Ciberseguridad-Global-en-2026)** | Análisis crítico de la ciberseguridad global. | ✅ Público |
+| **[📄 El Mercado Negro de tus Datos](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS)** | Manual de ciberseguridad para civiles. | ✅ Público |
+| **[📄 Cómo cazar a un monstruo](https://github.com/Condor2026/como-cazar-un-monstruo-manual)** | Manual de investigación forense para periodismo. | ✅ Público |
+| **[📄 Killnet Botnet Infrastructure](https://github.com/Condor2026/Killnet-Botnet-Infrastructure---Indonesian-Node-Artemis-RAT-C2---IOCs-and-Threat-Intelligence)** | IOCs y análisis de infraestructura Killnet. | ✅ Público |
+| **[📄 Distribución de malware Android vía Twitter](https://github.com/Condor2026/distribucion_de_malware_android_via_twitter)** | Análisis de campaña de malware Android. | ✅ Público |
+| **[📄 Phishing Defense Toolkit](https://github.com/Condor2026/phishing-defense-toolkit)** | Módulo formativo sobre phishing. | ✅ Público |
+| **[📄 SpamCall](https://github.com/Condor2026/SpamCall)** | Alerta de spam caller en León, España. | ✅ Público |
 
 ---
 
@@ -157,51 +232,57 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ---
 
-## 📜 Últimas actualizaciones (breve registro)
+## 📜 Últimas actualizaciones
 
+- `2026-07-23` – Publicación del dossier CTI: X-VDP-X (diable'fire) / France Cyber Défense.
+- `2026-07-23` – Actualización del perfil con nuevos proyectos.
 - `2026-06-04` – Lanzamiento de Nebula AntiScan v1.3 (público).
 - `2026-05-30` – Mejoras en Diabolic Peninsular v17.
 - `2026-05-20` – Integración de 80 feeds de inteligencia en Andrómeda.
 
 ---
 
-Servicios especializados:
+## 🛡️ Servicios especializados
 
-· Investigación de personas: 
-  Localización, análisis de entorno digital y recopilación de evidencias públicas para denuncias (acoso, estafas, suplantación, fraudes).
-· Ciberinteligencia: 
-  Rastreo de amenazas técnicas (malware, phishing, grupos de ataque, infraestructuras maliciosas).
-· Apoyo a abogados y víctimas: Informes estructurados con validez documental, listos para usar en procedimientos legales.
+### · Investigación de personas
+Localización, análisis de entorno digital y recopilación de evidencias públicas para denuncias (acoso, estafas, suplantación, fraudes).
 
----
+### · Ciberinteligencia
+Rastreo de amenazas técnicas (malware, phishing, grupos de ataque, infraestructuras maliciosas).
 
-Mi método:
-
-· OSINT avanzado: 
-  Selecciono, descarto, pulo y entrego evidencia clara.
-· Hiperfoco y rapidez: 
-  Donde otros pierden semanas, yo entrego en días.
-· Actuación 100% legal: 
-  Solo fuentes abiertas y acceso público. Nada de hackeo ni ilegalidad.
+### · Apoyo a abogados y víctimas
+Informes estructurados con validez documental, listos para usar en procedimientos legales.
 
 ---
 
-¿Por qué confiar en mí?
+## 📌 Mi método
 
-· Experiencia real en ciberinteligencia y análisis de amenazas.
-· Colaboraciones con profesionales del sector (privacidad, seguridad, derecho).
-· Informes diseñados para que abogados y víctimas los usen sin miedo.
-
----
-
-*"El que habla no hace. Yo he hecho. Y sigo haciendo. Solo."*
+- **OSINT avanzado:** Selecciono, descarto, pulo y entrego evidencia clara.
+- **Hiperfoco y rapidez:** Donde otros pierden semanas, yo entrego en días.
+- **Actuación 100% legal:** Solo fuentes abiertas y acceso público. Nada de hackeo ni ilegalidad.
 
 ---
 
-🦅 **Condor2026 - SpectrumSecurity** - **PURPLETEAM** - **Defense** - **StopCiberAttack** - **Prevencion** - **Periodismo** - **Threat Intelligence**  🦅
+## ✅ ¿Por qué confiar en mí?
+
+- Experiencia real en ciberinteligencia y análisis de amenazas.
+- Colaboraciones con profesionales del sector (privacidad, seguridad, derecho).
+- Informes diseñados para que abogados y víctimas los usen sin miedo.
+
+---
+
+> *"El que habla no hace. Yo he hecho. Y sigo haciendo. Solo."*
+
+---
+
+🦅 **Condor2026 - SpectrumSecurity - PURPLETEAM - Defense - StopCiberAttack - Prevención - Periodismo - Threat Intelligence** 🦅
 
 ---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Condor2026&color=00ff00&style=flat&label=Vistas+al+perfil" />
 </p>
+
+---
+
+*Última actualización: 23 de julio de 2026*
