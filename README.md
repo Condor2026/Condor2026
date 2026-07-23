@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivate%5D;Nebula+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
 </p>
 
-![Condor2026](condor2026.png)
+![Condor2026](AndromedaUniverso25_0.png)
 
 
 
