@@ -65,7 +65,7 @@ Research · Intelligence · Developer · Victim Support
 | Channel | Handle |
 |---------|--------|
 | **⌲🌐 Telegram** | `Private` |
-| **𝕏 Twitter** | `@PurpleCondors` |
+| **𝕏 Twitter** | `@PurpleCondors` | `@Panda_Sec_Intel`
 | **☣️ VirusTotal** | `@KiraSecurity` |
 | **📧 Email** | `KiraSecuruty@proton.me` |
 | **💼 LinkedIn** | `never` |
