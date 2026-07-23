@@ -2,48 +2,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=700&lines=🦅+Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivado%5D;Nebula+%5BP%C3%BAblico%5D;Anonimato+como+escudo" alt="Typing animation" />
 </p>
 
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-user-id?v=4" width="150" height="150" style="border-radius: 50%; border: 2px solid #00ff00;" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Perfil-Investigador%20de%20Amenazas-00FF00" />
-  <img src="https://img.shields.io/badge/Repositorios-40+-blue" />
-  <img src="https://img.shields.io/badge/Seguidores-30-brightgreen" />
-</p>
-
----
-
-![Profile](https://img.shields.io/badge/Profile-Condor2026-00FF00)
-![OSINT](https://img.shields.io/badge/OSINT-Developer-brightgreen)
-![Threat Intel](https://img.shields.io/badge/Threat%20Intel-Analyst-blue)
-![Purple Team](https://img.shields.io/badge/Purple%20Team-Defender-blueviolet)
-![Python](https://img.shields.io/badge/Python-Automation-yellow)
-![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT&CK-Mapped-orange)
-![Botnet Detection](https://img.shields.io/badge/Botnet%20Detection-🔥-red)
-![DDoS](https://img.shields.io/badge/DDoS-Tracking-red)
-![Cibercrimen](https://img.shields.io/badge/Cibercrimen-Analysis-darkred)
-![OSINT](https://img.shields.io/badge/OSINT-Pasivo-brightgreen)
-![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-Active-blue)
-![Investigador](https://img.shields.io/badge/Investigador-Independiente-purple)
-![Plataformas](https://img.shields.io/badge/Plataformas-Linux%20%7C%20Termux-blue)
-![Flask](https://img.shields.io/badge/Flask-Dashboards-blue)
-![Shodan](https://img.shields.io/badge/Shodan-API%20Ready-orange)
-![VirusTotal](https://img.shields.io/badge/VirusTotal-Enrichment-orange)
-![OpenCTI](https://img.shields.io/badge/OpenCTI-Integration-blueviolet)
-![MISP](https://img.shields.io/badge/MISP-Share-blue)
-![Proyectos](https://img.shields.io/badge/Proyectos-Diabolic%20%7C%20Nebula%20%7C%20LYRA-brightgreen)
-![FR](https://img.shields.io/badge/Diabolic-France-blue)
-![ES](https://img.shields.io/badge/Diabolic-Peninsular-red)
-![LATAM](https://img.shields.io/badge/Diabolic-Latam-green)
-![IT](https://img.shields.io/badge/Diabolic-Italia-blue)
-![IE](https://img.shields.io/badge/Keltic-Kraken-green)
-![Privado](https://img.shields.io/badge/Andrómeda-Privado-red)
-![Dossier](https://img.shields.io/badge/Dossier-CTI-blue)
-![CTI](https://img.shields.io/badge/CTI-X--VDP--X-orange)
-![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen)
-
----
+![Condor2026](condor2026.png)
 
 # 🦅🦅🦅 Condor2026 – Investigador de amenazas 🦅🦅🦅
 
@@ -53,15 +12,6 @@
 
 **Analista OSINT & Hunter de Amenazas Digitales**  
 Investigación · Inteligencia · Developer · Apoyo a Víctimas
-
----
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Condor2026&show_icons=true&theme=dark&bg_color=0d1117&border_color=00ff00&icon_color=00ff00&text_color=ffffff&title_color=00ff00" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condor2026&layout=compact&theme=dark&bg_color=0d1117&border_color=00ff00&title_color=00ff00&text_color=ffffff" width="350" />
-</p>
 
 ---
 
@@ -189,6 +139,12 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 
 ---
 
+## 📈 Estadísticas generales
+
+*Próximamente*
+
+---
+
 ## 🔥 Proyectos destacados
 
 | Proyecto | Descripción breve | Estado |
@@ -213,13 +169,6 @@ Me especializo en detección de botnets, seguimiento de grupos pro‑rusos, mape
 | **[📄 Dead Man's Switch](https://github.com/Condor2026/Dead-Man-s-Switch)** | Testamento digital con sorpresa. | ✅ Público |
 | **[⚓ OCEANUS-AI v4.5](https://github.com/Condor2026/OCEANUS-AI-v4.5)** | Sistema marítimo de monitoreo Geo-rutas (Anti Narco lanchas) - solo privado. | 🔒 Privado |
 | **[🇩🇪 Diabolic Alemania](https://github.com/Condor2026/Diabolic_Alemania)** | OSINT para Alemania. | ✅ Público |
-| **[📄 Análisis crítico de la Ciberseguridad Global 2026](https://github.com/Condor2026/Analisis--critico-de-la-Ciberseguridad-Global-en-2026)** | Análisis crítico de la ciberseguridad global. | ✅ Público |
-| **[📄 El Mercado Negro de tus Datos](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS)** | Manual de ciberseguridad para civiles. | ✅ Público |
-| **[📄 Cómo cazar a un monstruo](https://github.com/Condor2026/como-cazar-un-monstruo-manual)** | Manual de investigación forense para periodismo. | ✅ Público |
-| **[📄 Killnet Botnet Infrastructure](https://github.com/Condor2026/Killnet-Botnet-Infrastructure---Indonesian-Node-Artemis-RAT-C2---IOCs-and-Threat-Intelligence)** | IOCs y análisis de infraestructura Killnet. | ✅ Público |
-| **[📄 Distribución de malware Android vía Twitter](https://github.com/Condor2026/distribucion_de_malware_android_via_twitter)** | Análisis de campaña de malware Android. | ✅ Público |
-| **[📄 Phishing Defense Toolkit](https://github.com/Condor2026/phishing-defense-toolkit)** | Módulo formativo sobre phishing. | ✅ Público |
-| **[📄 SpamCall](https://github.com/Condor2026/SpamCall)** | Alerta de spam caller en León, España. | ✅ Público |
 
 ---
 
@@ -282,7 +231,3 @@ Informes estructurados con validez documental, listos para usar en procedimiento
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Condor2026&color=00ff00&style=flat&label=Vistas+al+perfil" />
 </p>
-
----
-
-*Última actualización: 23 de julio de 2026*
