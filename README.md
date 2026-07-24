@@ -236,8 +236,9 @@ Structured reports with documentary validity, ready for use in legal proceedings
 **🔍 Open to work** – Threat Intelligence, OSINT, Purple Team, Automation.  
 
 **🤖 Custom Telegram bots for OSINT/CTI** available. 
-  -Contact: `KiraSecuruty@proton.me` (PGP on request). 
-  -No personal TG/LinkedIn for opsec.
+
+  - Contact: `KiraSecuruty@proton.me` (PGP on request). 
+  - No personal TG/LinkedIn for opsec.
 ---
 
 > *"Those who talk don't do. I have done. And I keep doing. Alone."*
