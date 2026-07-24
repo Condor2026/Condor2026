@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=0&loop=1&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1&pause=0&loop=1&color=00FF00&center=true&vCenter=true&width=600&lines=%E2%80%AECondor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
 </p>
 
 ![Condor2026](condor2026.png)
