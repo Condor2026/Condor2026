@@ -111,7 +111,14 @@ I specialize in botnet detection, pro-Russian group tracking, DDoS infrastructur
 | **Threat prevention** | Early warning systems (Andrómeda) and monitoring dashboards for botnets and aggressive scanning (Nebula). |
 | **Defensive social engineering** | Phishing attack detection and simulation for training and reporting of serious crimes (pedophilia, terrorism). |
 
----
+| Role / Area | Description |
+|-------------|-------------|
+| **🔍 Threat Intelligence Analyst** | Monitoring, analysis and reporting of actors and campaigns (APT, hacktivism, organized crime). |
+| **🛡️ Purple Team / Threat Hunter** | Proactive detection, IoC correlation, adversary emulation and defense improvement. |
+| **🌐 OSINT Investigator** | Digital footprint, profiles, infrastructures and geolocation investigations for legal or corporate cases. |
+| **🤖 Automation Developer (CTI/OSINT)** | Scraper development, dashboards, API integration and ETL flows for intelligence. |
+| **📊 Cybercrime Analyst** | Analysis of criminal patterns in LATAM, Europe and Spanish-speaking environments. |
+| **🧠 Security Consultant / Advisor** | Strategic cyber defense advisory, risk management and incident response. |
 
 ## 🛠️ Technologies & Tools
 
@@ -224,6 +231,10 @@ Structured reports with documentary validity, ready for use in legal proceedings
 - Collaborations with sector professionals (privacy, security, law).
 - Reports designed for lawyers and victims to use without fear.
 
+---
+
+**🔍 Open to work** – Threat Intelligence, OSINT, Purple Team, Automation.  
+**🤖 Custom Telegram bots for OSINT/CTI** available. Contact: `KiraSecuruty@proton.me` (PGP on request). No personal TG/LinkedIn for opsec.
 ---
 
 > *"Those who talk don't do. I have done. And I keep doing. Alone."*
