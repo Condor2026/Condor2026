@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/🦅🦅🦅%20Condor2026%20–%20Threat%20Investigator%20🦅🦅🦅-red)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=1000&pause=100&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
 </p>
 
 <p align="center">
