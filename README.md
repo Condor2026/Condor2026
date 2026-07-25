@@ -249,7 +249,8 @@ Structured reports with documentary validity, ready for use in legal proceedings
 
 ---
 
-🦅 **Condor2026 - SpectrumSecurity - PURPLETEAM - Defense - StopCiberAttack - Prevention - Journalism - Threat Intelligence** 🦅
+**maintained by:** condor 2026 threat security - andromeda private suite
+🦅 **maintained by:** condor 2026 threat security - andromeda private suite - PURPLETEAM - Defense - StopCiberAttack - Prevention - Journalism - Threat Intelligence** 🦅
 
 ---
 
