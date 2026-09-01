@@ -202,7 +202,7 @@ For operational security reasons, personal data and direct contacts are provided
 | Channel | Handle |
 |--------|--------|
 | **⌨️ Telegram** | `Private` |
-| **🐦 Twitter/X** | `@PurpleCondors` \| `@Panda_Sec_Intel` |
+| **🐦 Twitter/X** | `@PurpleCondors` \|
 | **☣️ VirusTotal** | `@KiraSecurity` |
 | **📧 Email** | `KiraSecuruty@proton.me` |
 | **💼 LinkedIn** | `Not used (OpSec)` |
