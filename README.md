@@ -1,10 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/🦅🦅🦅%20Condor2026%20–%20Threat%20Investigator%20🦅🦅🦅-red)
 
-Universo 25 Labs
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=700&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter&cursor=%20" alt="Static text" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivate%5D;Nebula+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
@@ -14,12 +11,10 @@ Universo 25 Labs
 
 
 
-| Purple Team | OSINT Developer | Threat Hunter | Osinter | The Tracker | Threat Malware | Threat Intel | 🛡️ Consulting Cyber Security
-
 > *"Knowing the enemy is the first step to defending yourself."*
 
 **OSINT Analyst & Digital Threat Hunter**  
-Research · Intelligence · Developer · Victim Support
+Research · Intelligence · Developer
 
 ---
 
@@ -27,7 +22,7 @@ Research · Intelligence · Developer · Victim Support
 
 «I provide customized Cyber Threat Intelligence services for organizations, researchers, and security teams.»
 
-> *"Independent threat and OSINT researcher • Soon SpectrumSecurity / Formal company"*
+> *"Independent threat and OSINT researcher • Soon Condor2026 ThreatIntel / Formal company"*
 
 - Custom intelligence reports available upon request.
 
@@ -166,7 +161,11 @@ I specialize in botnet detection, pro-Russian group tracking, DDoS infrastructur
 
 ## 📈 General Statistics
 
-*Coming soon*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Condor2026&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ff00&text_color=ffffff" alt="Condor2026 GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condor2026&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff" alt="Top Languages" />
+</p>
+
 
 ---
 
