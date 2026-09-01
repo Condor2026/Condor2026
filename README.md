@@ -77,8 +77,7 @@ Research · Intelligence · Developer
 
 - **ETH:** `0x8eEA6C4B77DaB2C20E632407065c4F5d93093EaA`
 - **BTC:** `bc1qfvmwav55r3fqk88duux70z37kqw05c4k9t7h0j`
-- **ETH (and USDC/USDT):** | USD | ETC | BTC
-- 
+
 # Operational Security Notice
 
 For operational security reasons (active work on pro-Russian threat actors), I maintain anonymity until formal interest is expressed and an NDA or contract is signed.
