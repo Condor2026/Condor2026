@@ -100,18 +100,15 @@ All operations are conducted strictly through open sources and publicly availabl
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
-[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true&custom_title=Condor2026%20-%20Cyber%20Activity)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&theme=react-dark&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## General Statistics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Condor2026&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&icon_color=00ff00&text_color=ffffff" alt="Condor2026 GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Condor2026&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=00ffcc&text_color=ffffff" alt="Top Languages" />
-</p>
+[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&theme=react-dark&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
