@@ -99,16 +99,11 @@ All operations are conducted strictly through open sources and publicly availabl
 `MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Threat Intelligence` · `Passive OSINT` · `Cyber Crime Analytics` · `DevOps` · `CI/CD Pipelines` · `Diamond Model` · `Cyber Kill Chain`
 
 ---
+## 📊 Profile Overview
 
-## 📊 GitHub Activity
-
-[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&theme=react-dark&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 📊 GitHub Activity
-
-[![Condor2026's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Condor2026&theme=react-dark&bg_color=000000&color=00ffcc&line=00ff00&point=00ff00&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Condor2026&theme=github_dark" alt="Condor2026 GitHub Profile Details" />
+</p>
 
 ---
 
