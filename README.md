@@ -105,6 +105,25 @@ All operations are conducted strictly through open sources and publicly availabl
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Condor2026&theme=github_dark" alt="Condor2026 GitHub Profile Details" />
 </p>
 
+
+## 📈 Language & Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condor2026&theme=github_dark" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Condor2026&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Condor2026&theme=github_dark" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Condor2026&theme=github_dark&utcOffset=1" alt="Productive Time" />
+</p>
+
 ---
 
 ## Featured Security Tools
