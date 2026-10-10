@@ -213,6 +213,25 @@ Today, the focus remains on monitoring persistent threat groups, developing earl
 
 Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system) and **Nebula** (public demo). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, and persistent threat analysis.
 
+## 📈 Language & Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ClearWhiteNet&theme=github_dark" alt="Repos per Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ClearWhiteNet&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ClearWhiteNet&theme=github_dark" alt="Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ClearWhiteNet&theme=github_dark&utcOffset=1" alt="Productive Time" />
+</p>
+
+---
 ---
 
 **🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation.
