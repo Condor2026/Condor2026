@@ -119,32 +119,33 @@ This section provides direct access to all publicly available intelligence repor
 | # | Report / Dossier | Description | Direct Link |
 |---|------------------|-------------|-------------|
 | 1 | **KillNet** | Strategic dossier on the evolution, structure, operations, alliances, and campaigns attributed to the KillNet ecosystem and related groups. | [→ Repo](https://github.com/Condor2026/KillNet) |
-| 2 | **NoName057(16)** | Public threat intelligence tracker for the cybercriminal/hacktivist group NoName057(16), associated with GreenSnow botnet and Emotet. | [→ Repo](https://github.com/Condor2026/NoName05716) |
+| 2 | **NoName057(16)** | Public threat intelligence tracker for the cybercriminal/hacktivist group NoName057(16), associated with GreenSnow botnet and Emotet. | [→ Repo](https://github.com/Condor2026/INFORMES_NoNames05716_2026) |
 | 3 | **cti-xv-dpx** | Complete CTI dossier on X-VDP-X (diable'fire) and the France Cyber Défense breach. Includes TTP analysis, IOCs, and French legal framework. | [→ Repo](https://github.com/Condor2026/cti-xv-dpx) |
 | 4 | **CIBERWAR** | OSINT intelligence dossier on Killnet, NoName057(16), and the new generation of hybrid threats. | [→ Repo](https://github.com/Condor2026/CIBERWAR-El-Ecosistema-Silencioso) |
 | 5 | **Dossier 764 & Gov.eth** | Comprehensive dossier on the 764 terrorist network (satanic-neonazi sect) and the cybercriminal Gov.eth, analyzing modus operandi, ideology, and social impact. | [→ Repo](https://github.com/Condor2026/Dossier-764-Gov.eth---Analisis-de-Ciberamenazas-Hibridas) |
 | 6 | **CTI GLOBAL REPORT** | Global analysis of cyberspace and the invisible war. A macro-level threat intelligence report. | [→ Repo](https://github.com/Condor2026/INFORME-DE-INTELIGENCIA-DE-AMENAZAS-CIBERNETICAS-CTI-GLOBAL) |
 | 7 | **CTI RUSSIAN REPORT** | Complete dossier on Russian cyber threats. Analysis of actors, TTPs, and infrastructure. | [→ Repo](https://github.com/Condor2026/INFORME-DE-INTELIGENCIA-DE-AMENAZAS-RUSAS-CIBERNTICAS-CTI-21-7-2026) |
 | 8 | **Campaign Phishing AEAT** | Analysis of a mass phishing campaign impersonating the Spanish Tax Agency (AEAT), including associated malware. | [→ Repo](https://github.com/Condor2026/CAMPAIGN-DE-PHISHING-AEAT-Y-MALWARE-ASOCIADO) |
-| 9 | **ShinyHunters Infrastructure** | CTI analysis of shinyhunte.red - Official infrastructure of the ShinyHunters group (2026). | [→ Repo](https://github.com/Condor2026/shinyhunte.red) |
-| 10 | **Jabaroot** | Analysis of the Jabaroot threat actor: hacktivist with OSINT and information operations (info-ops) capabilities. Active since April 2025. | [→ Repo](https://github.com/Condor2026/Jabaroot) |
-| 11 | **IP BruteForce from China** | Report on mass brute-force attacks originating from China. Sources: OSINT, Telegram monitoring, Andromeda tools, and prior CTI reports. | [→ Repo](https://github.com/Condor2026/IP-FETECTADA-LANZANDO-BRUTEFORCE-MASIVAMENTE-DESDE-CHINA) |
-| 12 | **Threat Intelligence Report (1 Jul 2026)** | Comprehensive threat intelligence report. Classification: PUBLIC - INFORMATIVE. Purpose: public awareness and technical documentation. | [→ Repo](https://github.com/Condor2026/Threat-Intelligence-Report) |
-| 13 | **Dossier goo.su** | Complete CTI dossier on the goo.su case. | [→ Repo](https://github.com/Condor2026/DOSSIER-COMPLETO-DE-INTELIGENCIA-DE-AMENAZAS-CTI-EXPEDIENTE-goo.su) |
-| 14 | **Multi-Malware Campaign** | Analysis of a multi-malware campaign: China IP + CardSpy + GandCrab. | [→ Repo](https://github.com/Condor2026/Multi-Malware-Campaign-China-IP-CardSpy-GandCrab) |
-| 15 | **Phishing Infrastructure .shop** | Identification of active malicious infrastructure focused on IP 104.17.231.54 (Cloudflare), hosting a network of .shop phishing domains. | [→ Repo](https://github.com/Condor2026/Phising-Infraestructura-IP-104.17.231.54) |
-| 16 | **Twitter Malware Campaign** | Analysis of a malware distribution campaign targeting Android devices using compromised Twitter accounts as the initial attack vector. | [→ Repo](https://github.com/Condor2026/Twitter-Malware-Campaign) |
-| 17 | **SpamCall** | Documentation of heavy spam calling in León, Spain. Identity spoofing alert. | [→ Repo](https://github.com/Condor2026/SpamCall) |
-| 18 | **Ciberseguridad para humanos** | Educational series designed for civilians. Explained in Spanish with real examples, victim stories, and actionable steps. | [→ Repo](https://github.com/Condor2026/Ciberseguridad-para-humanos) |
-| 19 | **Dead Man's Switch** | Digital will with a contingency mechanism for the release of critical intelligence. | [→ Repo](https://github.com/Condor2026/Dead-Man-s-Switch) |
-| 20 | **Diabolic Italia** | Passive and analytical OSINT platform monitoring 70+ Italian digital newspapers for criminal pattern detection. | [→ Repo](https://github.com/Condor2026/Diabolic_It) |
-| 21 | **Diabolic Peninsular** | OSINT platform analyzing 60+ Spanish mainland newspapers to detect criminal patterns. | [→ Repo](https://github.com/Condor2026/Diabolic_Peninsular_V17) |
-| 22 | **Diabolic Baleares** | OSINT platform analyzing 18 Balearic Islands newspapers for criminal patterns (robberies, scams, drug trafficking). | [→ Repo](https://github.com/Condor2026/Diabolic_v17) |
-| 23 | **Diabolic Canarias** | Passive analytical OSINT monitoring of Canary Islands digital newspapers (CRIME focus). | [→ Repo](https://github.com/Condor2026/Diabolic_Canarias) |
-| 24 | **Diabolic Francia** | OSINT social aid platform monitoring housing, employment, food, health, and poverty in France. 30+ sources, 96 departments, 3 languages. | [→ Repo](https://github.com/Condor2026/diabolic_france) |
-| 25 | **Keltic Kraken** | Ireland Criminal Intelligence Platform - Monitoring crime patterns in Ireland. | [→ Repo](https://github.com/Condor2026/keltic_kraken) |
-| 26 | **Diabolic Latam** | Proactive-passive OSINT analytics tool for detecting and analyzing criminal patterns in Latin America. | [→ Repo](https://github.com/Condor2026/Diabolic_Latam) |
-| 27 | **Diabolic Alemania** | OSINT platform for Germany. | [→ Repo](https://github.com/Condor2026/Diabolic_Alemania) |
+| 9 | **ShinyHunters Infrastructure** | CTI analysis of shinyhunte.red - Official infrastructure of the ShinyHunters group (2026). | [→ Repo](https://github.com/Condor2026/Analisis_Shinyhunte.red) |
+| 10 | **Jabaroot** | Analysis of the Jabaroot threat actor: hacktivist with OSINT and information operations (info-ops) capabilities. Active since April 2025. | [→ Repo](https://github.com/Condor2026/Jabaroot-Threat-Intel) |
+| 11 | **Killnet Botnet — Indonesian Node (Artemis RAT C2)** | IOCs and threat intelligence for a Killnet botnet infrastructure node located in Indonesia. | [→ Repo](https://github.com/Condor2026/Killnet-Botnet-Infrastructure---Indonesian-Node-Artemis-RAT-C2---IOCs-and-Threat-Intelligence) |
+| 12 | **Gh0stRAT** | CTI report on the Gh0stRAT campaign against Chinese citizens abroad. | [→ Repo](https://github.com/Condor2026/Gh0stRAT) |
+| 13 | **LunarisSec** | Dossier on the LunarisSec ecosystem. Sources: OSINT, Telegram monitoring, Andromeda tools. | [→ Repo](https://github.com/Condor2026/LunarisSec-Dossier) |
+| 14 | **IP BruteForce from China** | Report on mass brute-force attacks originating from China. Sources: abuse.ch, VirusTotal, OSINT. | [→ Repo](https://github.com/Condor2026/BotNet_China_Detectada) |
+| 15 | **Multi-Malware Campaign** | Analysis of a multi-malware campaign: China IP 219.129.96.2 + CardSpy + GandCrab. | [→ Repo](https://github.com/Condor2026/analisis-ip-china-219.129.96.2.md) |
+| 16 | **Phishing Infrastructure .shop** | Identification of active malicious infrastructure focused on IP 104.17.231.54 (Cloudflare), hosting a network of .shop phishing domains. | [→ Repo](https://github.com/Condor2026/threat-intel-tprbalxs) |
+| 17 | **Twitter Malware Campaign** | Analysis of a malware distribution campaign targeting Android devices using compromised Twitter accounts as the initial attack vector. | [→ Repo](https://github.com/Condor2026/distribucion_de_malware_android_via_twitter) |
+| 18 | **SpamCall** | Documentation of heavy spam calling in León, Spain. Identity spoofing alert. | [→ Repo](https://github.com/Condor2026/SpamCall) |
+| 19 | **Ciberseguridad para humanos** | Educational series designed for civilians. Explained in Spanish with real examples, victim stories, and actionable steps. | [→ Repo](https://github.com/Condor2026/EL-MERCADO-NEGRO-DE-TUS-DATOS) |
+| 20 | **Dead Man's Switch** | Digital will with a contingency mechanism for the release of critical intelligence. | [→ Repo](https://github.com/Condor2026/Dead-Man-s-Switch) |
+| 21 | **Informe Final de Temporada 2026** | Synthesis of 27 public dossiers (feb–sep 2026). Sistema Andrómeda: 9,283 events processed. | [→ Repo](https://github.com/Condor2026/Informe-TEMPORADA-FINAL-VERANO) |
+| 22 | **Diabolic Italia** | Passive and analytical OSINT platform monitoring 70+ Italian digital newspapers for criminal pattern detection. | [→ Repo](https://github.com/Condor2026/Diabolic_It) |
+| 23 | **Diabolic Peninsular** | OSINT platform analyzing 60+ Spanish mainland newspapers to detect criminal patterns. | [→ Repo](https://github.com/Condor2026/Diabolic_Peninsular_V17) |
+| 24 | **Diabolic Baleares** | OSINT platform analyzing 18 Balearic Islands newspapers for criminal patterns (robberies, scams, drug trafficking). | [→ Repo](https://github.com/Condor2026/Diabolic_v17) |
+| 25 | **Diabolic Canarias** | Passive analytical OSINT monitoring of Canary Islands digital newspapers (CRIME focus). | [→ Repo](https://github.com/Condor2026/Diabolic_Canarias) |
+| 26 | **Diabolic Francia** | OSINT social aid platform monitoring housing, employment, food, health, and poverty in France. 30+ sources, 96 departments, 3 languages. | [→ Repo](https://github.com/Condor2026/diabolic_france) |
+| 27 | **Keltic Kraken** | Ireland Criminal Intelligence Platform - Monitoring crime patterns in Ireland. | [→ Repo](https://github.com/Condor2026/keltic_kraken) |
+| 28 | **Diabolic Latam** | Proactive-passive OSINT analytics tool for detecting and analyzing criminal patterns in Latin America. | [→ Repo](https://github.com/Condor2026/Diabolic_Latam) |
 
 *Note: These reports are interconnected. For instance, the Russian hacktivist ecosystem (CIBERWAR, Killnet, NoName) feeds into the CTI RUSSIAN and CTI GLOBAL reports, while regional criminal analyses (Diabolic series, Keltic Kraken) provide ground-level OSINT validation for broader geopolitical threat assessments.*
 
@@ -162,10 +163,11 @@ This section provides direct access to all publicly available intelligence repor
 
 ## Latest Updates
 
+- `2026-09-15` – Informe final de temporada: synthesis of 27 public dossiers (feb–sep 2026).
 - `2026-08-28` – Publication of KillNet and NoName057(16) strategic dossiers.
 - `2026-07-23` – Publication of cti-xv-dpx dossier (France Cyber Défense breach).
 - `2026-07-23` – Profile update with new project indexes.
-- `2026-06-04` – Nebula AntiScan v1.3 public release.
+- `2026-06-04` – Nebula AntiScan v2.0 public release.
 - `2026-05-30` – Diabolic Peninsular v17 improvements.
 - `2026-05-20` – Integration of 80 intelligence feeds into Andrómeda.
 
@@ -187,9 +189,9 @@ For operational security reasons, personal data and direct contacts are provided
 | Channel | Handle |
 |--------|--------|
 | **⌨️ Telegram** | `Private` |
-| **🐦 Twitter/X** | `@PurpleCondors` \|
+| **🐦 Twitter/X** | `@PurpleCondors` |
 | **☣️ VirusTotal** | `@KiraSecurity` |
-| **📧 Email** | `KiraSecuruty@proton.me` |
+| **📧 Email** | `KiraSecurity@proton.me` |
 | **💼 LinkedIn** | `Not used (OpSec)` |
 
 *Note: PGP key available upon request.*
@@ -213,22 +215,30 @@ Today, the focus remains on monitoring persistent threat groups, developing earl
 
 Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system) and **Nebula** (public demo). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, and persistent threat analysis.
 
+---
+
 ## 📈 Language & Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condor2026&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Condor2026&theme=github_dark" alt="Profile Details" />
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condor2026&theme=github_dark" alt="Repos per Language" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Condor2026&theme=github_dark" alt="Most Commit Language" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Condor2026&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Condor2026&theme=github_dark&utcOffset=1" alt="Productive Time" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Condor2026&theme=github_dark&utcOffset=1" alt="Productive Time" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Condor2026&theme=github-dark&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Condor2026&theme=github_dark&no-frame=true&no-bg=true&column=7" alt="Trophies" />
 </p>
 
 ---
@@ -236,7 +246,7 @@ Self-taught, with a strong emphasis on operational security, the creator of **An
 
 **🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation.
 
-- Contact: `KiraSecuruty@proton.me` (PGP on request).
+- Contact: `KiraSecurity@proton.me` (PGP on request).
 - No personal Telegram or LinkedIn for OpSec reasons.
 
 ---
