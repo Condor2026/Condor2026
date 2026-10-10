@@ -74,6 +74,31 @@ All operations are conducted strictly through open sources and publicly availabl
 
 ---
 
+
+## 📈 Language & Stats
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Condor2026&theme=github_dark" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condor2026&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Condor2026&theme=github_dark" alt="Most Commit Language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Condor2026&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Condor2026&theme=github_dark&utcOffset=1" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Condor2026&theme=github-dark&hide_border=true" alt="Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Condor2026&theme=github_dark&no-frame=true&no-bg=true&column=7" alt="Trophies" />
+</p>
+
 ## Technologies & Tools
 
 | Category | Technologies |
@@ -215,33 +240,6 @@ Today, the focus remains on monitoring persistent threat groups, developing earl
 
 Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system) and **Nebula** (public demo). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, and persistent threat analysis.
 
----
-
-## 📈 Language & Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Condor2026&theme=github_dark" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Condor2026&theme=github_dark" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Condor2026&theme=github_dark" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Condor2026&theme=github_dark" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Condor2026&theme=github_dark&utcOffset=1" alt="Productive Time" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Condor2026&theme=github-dark&hide_border=true" alt="Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Condor2026&theme=github_dark&no-frame=true&no-bg=true&column=7" alt="Trophies" />
-</p>
-
----
 ---
 
 **🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation.
