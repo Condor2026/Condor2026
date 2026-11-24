@@ -1,7 +1,7 @@
 ![Static Badge](https://img.shields.io/badge/%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85%20Condor2026%20%E2%80%93%20Threat%20Investigator%20%F0%9F%A6%85%F0%9F%A6%85%F0%9F%A6%85-red)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivate%5D;Nebula+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=600&lines=Condor2026+%7C+Threat+Hunter;OSINT+%7C+Purple+Team;Andr%C3%B3meda+%5BPrivate%5D;Nebula+%5BPublic%5D;Nexus+Ecosystem+%5BPublic%5D;Anonymity+as+a+shield" alt="Typing animation" />
 </p>
 
 ![Condor2026](268162817.jpeg)
@@ -48,7 +48,7 @@ All operations are conducted strictly through open sources and publicly availabl
 
 ## Areas of Interest
 
-`Threat Intelligence` · `Passive OSINT` · `Pro-Russian Group Analysis` · `Killnet/NoName Tracking` · `LATAM Organized Crime` · `DDoS Infrastructure Mapping` · `Mass Scraping` · `Actor Attribution` · `Scanning Prevention` · `Botnet Monitoring` · `Defensive Social Engineering` · `Intelligence Dashboards` · `Cyber Crime Analytics`
+`Threat Intelligence` · `Passive OSINT` · `Pro-Russian Group Analysis` · `Killnet/NoName Tracking` · `LATAM Organized Crime` · `DDoS Infrastructure Mapping` · `Mass Scraping` · `Actor Attribution` · `Scanning Prevention` · `Botnet Monitoring` · `Defensive Social Engineering` · `Intelligence Dashboards` · `Cyber Crime Analytics` · `Maritime Anomaly Detection` · `Global Early Warning` · `AI-Assisted CTI`
 
 ---
 
@@ -60,8 +60,9 @@ All operations are conducted strictly through open sources and publicly availabl
 | **Organized Crime (LATAM & Europe)** | Analysis of drug trafficking, extortion, homicides, and gender-based violence patterns using passive OSINT on digital press (Diabolic suite). |
 | **Malicious Infrastructure** | Domain, IP, SSL certificate, WHOIS, JARM fingerprinting, and IOC correlation for actor attribution (ShinyHunters, LAPSUS$, etc.). |
 | **Advanced OSINT** | Mass data extraction from Telegram, Discord, forums, and digital press. Geolocation, digital footprint analysis, and public data correlation. |
-| **Threat Prevention** | Early warning systems (Andrómeda) and monitoring dashboards for botnets and aggressive scanning (Nebula). |
+| **Threat Prevention** | Early warning systems (Andrómeda, Nexus, GLOBAL_EARLY_WARNING) and monitoring dashboards for botnets and aggressive scanning (Nebula, Sentinel_Osiris_X). |
 | **Defensive Social Engineering** | Phishing attack detection and simulation for training and reporting of severe crimes (pedophilia, terrorism). |
+| **Maritime & Geopolitical OSINT** | AIS anomaly detection, GPS spoofing, dark vessels, narcolanchas, and global early warning of missile/drone/attack events from public sources. |
 
 | Role | Description |
 |------|-------------|
@@ -73,7 +74,6 @@ All operations are conducted strictly through open sources and publicly availabl
 | **🧠 Security Consultant / Advisor** | Strategic cyber defense advisory, risk management, and incident response planning. |
 
 ---
-
 
 ## 📈 Language & Stats
 
@@ -108,14 +108,15 @@ All operations are conducted strictly through open sources and publicly availabl
 | **OSINT / Security** | ![VirusTotal](https://img.shields.io/badge/VirusTotal-4285F4?style=flat&logo=virustotal&logoColor=white) ![Shodan](https://img.shields.io/badge/Shodan-FF6600?style=flat&logo=shodan&logoColor=white) ![Censys](https://img.shields.io/badge/Censys-00AEEF?style=flat&logo=censys&logoColor=white) ![GreyNoise](https://img.shields.io/badge/GreyNoise-000000?style=flat&logo=greynoise&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat&logo=nmap&logoColor=white) ![AlienVault](https://img.shields.io/badge/AlienVault-00AEEF?style=flat&logo=alienvault&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-8A2BE2?style=flat&logo=misp&logoColor=white) ![OpenCTI](https://img.shields.io/badge/OpenCTI-FFA500?style=flat&logo=opencti&logoColor=white) ![TheHive](https://img.shields.io/badge/TheHive-FF6600?style=flat&logo=thehive&logoColor=white) ![YARA](https://img.shields.io/badge/YARA-000000?style=flat&logo=yara&logoColor=white) |
 | **Threat Intelligence Platforms** | ![OpenCTI](https://img.shields.io/badge/OpenCTI-FFA500?style=flat&logo=opencti&logoColor=white) ![GreyNoise](https://img.shields.io/badge/GreyNoise-000000?style=flat&logo=greynoise&logoColor=white) ![Censys](https://img.shields.io/badge/Censys-00AEEF?style=flat&logo=censys&logoColor=white) ![MISP](https://img.shields.io/badge/MISP-8A2BE2?style=flat&logo=misp&logoColor=white) ![AlienVault OTX](https://img.shields.io/badge/AlienVault_OTX-00AEEF?style=flat&logo=alienvault&logoColor=white) ![RiskIQ](https://img.shields.io/badge/RiskIQ-FF6F00?style=flat&logo=riskiq&logoColor=white) ![Recorded Future](https://img.shields.io/badge/Recorded_Future-00B4D8?style=flat&logo=recordedfuture&logoColor=white) |
 | **Scraping & Automation** | ![Scrapy](https://img.shields.io/badge/Scrapy-60C839?style=flat&logo=scrapy&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white) ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat&logo=python&logoColor=white) ![Requests](https://img.shields.io/badge/Requests-3776AB?style=flat&logo=python&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2B8E5A?style=flat&logo=playwright&logoColor=white) |
-| **Visualization & Web** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white) |
-| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) |
+| **Visualization & Web** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white) ![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat&logo=leaflet&logoColor=white) ![D3.js](https://img.shields.io/badge/D3.js-F9A03C?style=flat&logo=d3dotjs&logoColor=white) ![deck.gl](https://img.shields.io/badge/deck.gl-00D4FF?style=flat&logo=uber&logoColor=white) |
+| **Databases** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
 | **Version Control** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) |
 | **Operating Systems** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white) ![Termux](https://img.shields.io/badge/Termux-000000?style=flat&logo=termux&logoColor=white) ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white) ![Parrot OS](https://img.shields.io/badge/Parrot_OS-2E9AFE?style=flat&logo=parrot-security&logoColor=white) ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat&logo=debian&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) |
 | **OSINT Platforms** | ![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white) ![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white) ![Twitter/X](https://img.shields.io/badge/Twitter_X-000000?style=flat&logo=x&logoColor=white) ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=flat&logo=reddit&logoColor=white) |
+| **AI / LLM** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white) |
 | **Knowledge Domains** | ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Computer Science](https://img.shields.io/badge/Computer_Science-007ACC?style=flat&logo=python&logoColor=white) ![Electrical Engineering](https://img.shields.io/badge/Electrical_Engineering-FFB300?style=flat&logo=raspberry-pi&logoColor=white) |
 | **Core Methodologies** | `MITRE ATT&CK` · `TTPs` · `IoCs` · `Purple Team` · `Threat Hunting` · `Diamond Model` · `Cyber Kill Chain` · `Intelligence Driven Defense` · `DevOps` · `CI/CD` |
-| **Specializations** | `DDoS Tracking` · `Botnet Detection` · `Malware Analysis` · `Phishing Analysis` · `Social Engineering Defense` · `Fraud Detection` · `Crime Analysis` · `Investigative Journalism` · `Threat Actor Profiling` · `Takedown Coordination` |
+| **Specializations** | `DDoS Tracking` · `Botnet Detection` · `Malware Analysis` · `Phishing Analysis` · `Social Engineering Defense` · `Fraud Detection` · `Crime Analysis` · `Investigative Journalism` · `Threat Actor Profiling` · `Takedown Coordination` · `Maritime Anomaly Detection` · `Global Early Warning` · `AI-Assisted CTI` |
 
 ---
 
@@ -125,7 +126,52 @@ All operations are conducted strictly through open sources and publicly availabl
 
 ---
 
-## Featured Security Tools
+## 🌐 The Nexus Ecosystem — The Strong Piece (Latest Work)
+
+The **Nexus Ecosystem** is the current flagship and the most recent line of work. Three independent tools that **work in symbiosis** — each one stands on its own, but together they form a complete intelligence cycle: **collect → search → analyze**. This is the piece I am actively building and refining.
+
+```text
+┌───────────────────┐        ┌──────────────────┐        ┌─────────────────┐
+│ OsintCrimeCiberX  │  IOCs  │  Puente_Nexus    │ watch  │  Nexus_Osint_X  │
+│   (buscador)      │ ─────► │  (bridge)        │ ─────► │  (radar/mando)  │
+└───────────────────┘        └──────────────────┘        └─────────────────┘
+                                                                  ▲
+                                                                  │ API HTTP
+                                                           ┌──────┴───────┐
+                                                           │ ThreatJarvisX │
+                                                           │  (asistente)  │
+                                                           └───────────────┘
+```
+
+| Project | Role | Repo | License |
+|---------|------|------|---------|
+| **🌌 Nexus_Osint_X** | **OSINT Radar / Command Center**: aggregates 330+ public source entries, 3D globe (deck.gl), MITRE ATT&CK, JARVIS panel, live DDoS monitor, Telegram detector, 12 export formats. *Prototype v3.1.* | [`Condor2026/Nexus_Osint_X`](https://github.com/Condor2026/Nexus_Osint_X) | AGPL v3 |
+| **🔎 OsintCrimeCiberX** | **Crime + Cyber OSINT search engine**: own index + passive scraping + specialized search for organized crime, cybercrime, Telegram channels, CVEs, IPs and patterns. CLI + web panel. | [`Condor2026/OsintCrimeCiberX`](https://github.com/Condor2026/OsintCrimeCiberX) | Public |
+| **🧠 Threat_Jarvis_X** | **AI Threat Intel assistant**: consumes Nexus via its API (`/api/kpis`, `/api/analytics`, `/api/crypto`…) and helps analyze events. | [`Condor2026/Threat_Jarvis_X`](https://github.com/Condor2026/Threat_Jarvis_X) | Other |
+| **🌉 Puente_Nexus** | **Bridge** between OsintCrime and Nexus (inside the Nexus repo): launches, watches and syncs IOCs → watchlist. v1.1. | within `Nexus_Osint_X` | AGPL v3 |
+
+> **Key difference:** Nexus is a **radar** (shows the panorama), OsintCrime is a **search engine** (you ask, it answers), Jarvis is the **analyst assistant** (reads the radar for you). Each works alone; together they cover the full loop.
+
+---
+
+## 🛡️ Featured Security Tools
+
+### 🌐 Nexus Ecosystem — Public
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[🌌 Nexus_Osint_X](https://github.com/Condor2026/Nexus_Osint_X)** | Self-hosted OSINT radar / command center. 330+ source entries (RSS, APIs, IP lists, public Telegram channels), deck.gl 3D globe, satellites, domain correlation, MITRE ATT&CK, JARVIS panel, Telegram detector, IP search, 12 export formats, Puente_Nexus bridge. *Prototype v3.1 — false positives possible.* | ✅ Public (AGPL v3) |
+| **[🔎 OsintCrimeCiberX](https://github.com/Condor2026/OsintCrimeCiberX)** | Crime + Cyber OSINT CLI and web panel for analysts, investigators and journalists. Consolidates public information on organized crime, cybercrime, Telegram channels, CVEs, IPs and patterns. *v1.15.0 — expanded release Dec 2026.* | ✅ Public |
+| **[🧠 Threat_Jarvis_X](https://github.com/Condor2026/Threat_Jarvis_X)** | AI Threat Intel assistant connected to Nexus_Osint_X. Allows analyzing Nexus events via API. Lives in its own repo. | ✅ Public |
+
+### 🌊 Global Early Warning & Maritime Domain Awareness — Public
+
+| Project | Description | Status |
+|---------|-------------|--------|
+| **[🌍 GLOBAL_EARLY_WARNING_OSINT_MONITOR](https://github.com/Condor2026/GLOBAL_EARLY_WARNING_OSINT_MONITOR)** | Global OSINT early-warning monitor: missile alerts, drones, attacks, earthquakes/explosions, official statements and war press from 20+ public sources (no key required). Conflict analysis · war press · OSINT. | ✅ Public (MIT) |
+| **[⚓ Sentinel_Osiris_X](https://github.com/Condor2026/Sentinel_Osiris_X)** | Maritime anomaly OSINT monitor — fusion of AIS + radar/SAR + simulator for detecting AIS shutdowns, "dark" ferries, narcolanchas, at-sea encounters and GPS spoofing. OSINT · radar · GPS · AIS. | ✅ Public (MIT) |
+
+### 🦅 Research & Original Tools — Public / Private
 
 | Project | Description | Status |
 |---------|-------------|--------|
@@ -134,6 +180,8 @@ All operations are conducted strictly through open sources and publicly availabl
 | **[🦅 TrueCall_Condor](https://github.com/Condor2026/TrueCall_Condor)** | OSINT tool for documenting scam calls, phishing domains, and fraudulent URLs. | ✅ Public |
 | **[📡 Andrómeda](https://github.com/Condor2026/Andromeda-analisi-grupos-ciber-delictivos)** | Private counter-intelligence system for DDoS monitoring, botnet tracking, and 3D threat mapping. +250k alerts processed. | 🔒 Private |
 | **[⚓ OCEANUS-AI v4.5](https://github.com/Condor2026/OCEANUS-AI-v4.5)** | Private maritime monitoring system for geo-route tracking and anti-narco operations. | 🔒 Private |
+
+> **Note on the ecosystem:** the Nexus repo (AGPL v3) is the only one that hosts the **Puente_Nexus** bridge. `OsintCrimeCiberX` and `Threat_Jarvis_X` live in their own repos and are published separately — they are not mixed into the Nexus codebase. Each tool can be used alone; together they form the full intelligence cycle. See the Nexus README for the full bridge documentation.
 
 ---
 
@@ -179,15 +227,22 @@ This section provides direct access to all publicly available intelligence repor
 ## Work Philosophy
 
 - **Anonymity as a Shield:** Identity protection is maintained strictly for operational security, not as a weapon.
-- **Open Source for Education:** Public tools (Nebula, Diabolic series) are released to educate and empower the community.
-- **Private Intelligence for Real Defense:** The core intellectual capital (Andrómeda) remains private and is never commercialized.
+- **Open Source for Education:** Public tools (Nebula, Diabolic series, Nexus ecosystem) are released to educate and empower the community.
+- **Private Intelligence for Real Defense:** The core intellectual capital (Andrómeda, OCEANUS-AI) remains private and is never commercialized.
 - **Trust is Earned Through Results:** Credibility is built on the quality and accuracy of intelligence outputs, not certifications or public posturing.
 - **Legal & Ethical Compliance:** All activities are conducted within legal frameworks, using only open-source and publicly available data.
+- **Radar, not simulator:** Nexus and its ecosystem observe what happens; they do not generate hypothetical attack scenarios or predictions.
 
 ---
 
 ## Latest Updates
 
+- `2026-11-24` – **Nexus ecosystem consolidation**: Nexus_Osint_X, OsintCrimeCiberX and Threat_Jarvis_X working in symbiosis (see Nexus README for the full bridge documentation).
+- `2026-11-24` – **GLOBAL_EARLY_WARNING_OSINT_MONITOR** released (public, MIT): global OSINT early warning (missiles, drones, attacks, sismos, official statements, war press from 20+ sources).
+- `2026-11-24` – **Sentinel_Osiris_X** released (public, MIT): maritime anomaly OSINT — AIS + radar/SAR + GPS spoofing detection, dark ferries, narcolanchas.
+- `2026-11-24` – **Threat_Jarvis_X** published: AI Threat Intel assistant connected to Nexus via API.
+- `2026-11-24` – **OsintCrimeCiberX** published: crime + cyber OSINT CLI and web panel.
+- `2026-11-24` – **Nexus_Osint_X** repo updated (v3.1): 330+ source entries, JARVIS panel, Puente_Nexus v1.1.
 - `2026-09-15` – Informe final de temporada: synthesis of 27 public dossiers (feb–sep 2026).
 - `2026-08-28` – Publication of KillNet and NoName057(16) strategic dossiers.
 - `2026-07-23` – Publication of cti-xv-dpx dossier (France Cyber Défense breach).
@@ -238,11 +293,11 @@ The journey began as an independent researcher operating in hostile digital envi
 
 Today, the focus remains on monitoring persistent threat groups, developing early detection systems, and publishing actionable intelligence for the defense of critical infrastructure. The background provides a unique understanding of adversary TTPs, cultivated through practical experience rather than formal coursework.
 
-Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system) and **Nebula** (public demo). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, and persistent threat analysis.
+Self-taught, with a strong emphasis on operational security, the creator of **Andrómeda** (private counter-intelligence system), **Nebula** (public demo), and the **Nexus Ecosystem** (Nexus_Osint_X + OsintCrimeCiberX + Threat_Jarvis_X + Puente_Nexus). Specializations include botnet detection, pro-Russian group tracking, DDoS infrastructure mapping, maritime anomaly detection, global early warning, and persistent threat analysis.
 
 ---
 
-**🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation.
+**🔍 Open to collaboration** – Threat Intelligence, OSINT, Purple Team, Automation, Maritime & Global Early Warning.
 
 - Contact: `KiraSecurity@proton.me` (PGP on request).
 - No personal Telegram or LinkedIn for OpSec reasons.
@@ -258,4 +313,3 @@ Self-taught, with a strong emphasis on operational security, the creator of **An
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Condor2026&color=00ff00&style=flat&label=Profile+Views" />
 </p>
-
