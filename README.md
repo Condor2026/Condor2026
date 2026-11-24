@@ -148,7 +148,7 @@ The **Nexus Ecosystem** is the current flagship and the most recent line of work
 | **🌌 Nexus_Osint_X** | **OSINT Radar / Command Center**: aggregates 330+ public source entries, 3D globe (deck.gl), MITRE ATT&CK, JARVIS panel, live DDoS monitor, Telegram detector, 12 export formats. *Prototype v3.1.* | [`Condor2026/Nexus_Osint_X`](https://github.com/Condor2026/Nexus_Osint_X) | AGPL v3 |
 | **🔎 OsintCrimeCiberX** | **Crime + Cyber OSINT search engine**: own index + passive scraping + specialized search for organized crime, cybercrime, Telegram channels, CVEs, IPs and patterns. CLI + web panel. | [`Condor2026/OsintCrimeCiberX`](https://github.com/Condor2026/OsintCrimeCiberX) | Public |
 | **🧠 Threat_Jarvis_X** | **AI Threat Intel assistant**: consumes Nexus via its API (`/api/kpis`, `/api/analytics`, `/api/crypto`…) and helps analyze events. | [`Condor2026/Threat_Jarvis_X`](https://github.com/Condor2026/Threat_Jarvis_X) | Other |
-| **🌉 Puente_Nexus** | **Bridge** between OsintCrime and Nexus (inside the Nexus repo): launches, watches and syncs IOCs → watchlist. v1.1. | within `Nexus_Osint_X` | AGPL v3 |
+| **🌉 Puente_Nexus** | **Bridge** between OsintCrime and Nexus_Osint_X (inside the Nexus repo): launches, watches and syncs IOCs → watchlist. v1.1. | within `Nexus_Osint_X` | AGPL v3 |
 
 > **Key difference:** Nexus is a **radar** (shows the panorama), OsintCrime is a **search engine** (you ask, it answers), Jarvis is the **analyst assistant** (reads the radar for you). Each works alone; together they cover the full loop.
 
